@@ -18,7 +18,6 @@ namespace new_csharp_6_features
             new UsingStatic().Main();
             new UsingStaticWithExtensionMethods().Main();
             new NullConditional().Main();
-            new NullConditionalExperiment().Main();
             new NullConditionalOnMethods().Main();
             new NullConditionalOnEvents().Main();
             new StringInterpolation().Main();

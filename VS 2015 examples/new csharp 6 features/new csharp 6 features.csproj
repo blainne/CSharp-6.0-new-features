@@ -66,7 +66,6 @@
     <Compile Include="6 - Using static.cs" />
     <Compile Include="7 - Using static with extension methods.cs" />
     <Compile Include="8 - Null conditional.cs" />
-    <Compile Include="8.5 - Null conditional experiment.cs" />
     <Compile Include="9 - Null conditional on methods.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="Program.cs" />
