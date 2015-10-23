@@ -9,7 +9,6 @@ Originally the code was written in LinqPad and is only ported to VS. I had to pr
 
 ### Find more about new C*#* ###
 There are some good sources to read about new features:
-* 
 * https://github.com/AlexArchive/c6-equivalents-in-c5
 * https://github.com/dotnet/roslyn/wiki/New-Language-Features-in-C%23-6
 
